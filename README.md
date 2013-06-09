@@ -1,2 +1,0 @@
-RenyaMizuno.github.io
-=====================
