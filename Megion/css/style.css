@@ -3,6 +3,10 @@ body {
   background: #eee;
 }
 
+#title_image {
+  width: 100%;
+}
+
 .download_icon {
   height: 200px;
 }
