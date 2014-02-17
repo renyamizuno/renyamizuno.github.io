@@ -1,3 +1,8 @@
 body {
   padding-top: 70px;
+  background: #eee;
+}
+
+.download_icon {
+  height: 200px;
 }
