@@ -58,8 +58,7 @@ a ._text{
   height: 400px;
   background-color: #000;
   background-image: url("../img/mandelbrot.png");
-  background-position: 0 10%;
-  background-size: 100%;
+  background-position: 0 50%;
   background-attachment: fixed;
   background-repeat: no-repeat;
 }
